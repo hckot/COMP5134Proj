@@ -16,8 +16,11 @@ COMP5134Proj/PocJava/src/comp5134/model				      : ( M-MVC ) Java to refer the I
 
 COMP5134Proj/PocJava/src/comp5134/view				      : ( V-MVC ) Java to presents the POS Ice-Cream Application interface to                                                        the user
 COMP5134Proj/PocJava/src/comp5134/view/PosView.java				      : ( V-MVC ) presentation layer included all Swing Components.
+
 COMP5134Proj/PocJava/src/comp5134/view/PosItemsPanel.java		    : ( V-MVC ) Decorator, Flavor items panel
+
 COMP5134Proj/PocJava/src/comp5134/view/PosAlertDialogView.java	: ( V-MVC ) Alert message box
+
 COMP5134Proj/PocJava/src/comp5134/view/PosAdminDialogView.java	: ( V-MVC ) System administrative box
 
 COMP5134Proj/PocJava/bin/makeJar.bat 	: Make project.jar command
